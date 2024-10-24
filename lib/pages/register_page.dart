@@ -19,7 +19,7 @@ class RegisterPage extends StatelessWidget {
             const SizedBox(height: 20),
             const TextField(
               decoration: InputDecoration(
-                  labelText: 'Nama Lengkap', border: OutlineInputBorder()),
+                  labelText: 'Nama', border: OutlineInputBorder()),
               style: TextStyle(fontSize: 12),
             ),
             const SizedBox(height: 20),
